@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujal Dev Pant</h1>
 <h3 align="center">I'm on an exciting journey of learning and exploration, delving into the intricacies of  MERN Stack & Data Structure and Algorithms.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal-pant&label=Profile%20views&color=0e75b6&style=flat" alt="sujal-pant" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 
