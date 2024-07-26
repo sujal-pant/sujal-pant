@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [MERN Stack](https://github.com/sujal-pant/DSA_JAVA)
+- 🔭 I’m currently working on **MERN Stack**
 
 - 👯 I’m looking to collaborate with **Experts**
 
